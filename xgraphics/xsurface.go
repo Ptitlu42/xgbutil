@@ -6,13 +6,13 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
+	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/ewmh"
 	"github.com/Ptitlu42/xgbutil/icccm"
 	"github.com/Ptitlu42/xgbutil/keybind"
 	"github.com/Ptitlu42/xgbutil/mousebind"
 	"github.com/Ptitlu42/xgbutil/xevent"
 	"github.com/Ptitlu42/xgbutil/xwindow"
-	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 /*

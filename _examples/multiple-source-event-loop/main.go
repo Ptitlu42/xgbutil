@@ -10,11 +10,11 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
+	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/ewmh"
 	"github.com/Ptitlu42/xgbutil/xevent"
 	"github.com/Ptitlu42/xgbutil/xprop"
 	"github.com/Ptitlu42/xgbutil/xwindow"
-	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // otherSource serves as a placeholder from some other source of user input.

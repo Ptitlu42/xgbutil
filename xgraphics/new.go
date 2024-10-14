@@ -16,9 +16,9 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
+	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/ewmh"
 	"github.com/Ptitlu42/xgbutil/xwindow"
-	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // NewConvert converts any image satisfying the image.Image interface to an

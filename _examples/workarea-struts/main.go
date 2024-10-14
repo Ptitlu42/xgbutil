@@ -12,11 +12,11 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/ewmh"
 	"github.com/Ptitlu42/xgbutil/xinerama"
 	"github.com/Ptitlu42/xgbutil/xrect"
 	"github.com/Ptitlu42/xgbutil/xwindow"
-	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 func main() {

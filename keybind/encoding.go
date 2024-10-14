@@ -16,7 +16,7 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/nicely-personal-assistant/xgbutil"
+	"github.com/Ptitlu42/xgbutil"
 )
 
 // LookupString attempts to convert a (modifiers, keycode) to an english string.

@@ -4,8 +4,8 @@ import (
 	"sort"
 
 	"github.com/BurntSushi/xgb/xinerama"
+	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/xrect"
-	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // Alias so we use it as a receiver to satisfy sort.Interface

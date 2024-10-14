@@ -1,4 +1,4 @@
-module github.com/nicely-personal-assistant/xgbutil
+module github.com/Ptitlu42/xgbutil
 
 go 1.23.2
 

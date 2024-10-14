@@ -5,8 +5,8 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
+	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/xgraphics"
-	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 func main() {
