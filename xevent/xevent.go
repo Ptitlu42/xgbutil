@@ -1,8 +1,8 @@
 package xevent
 
 import (
-	"github.com/BurntSushi/xgb"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb"
+	"github.com/Ptitlu42/xgb/xproto"
 
 	"github.com/Ptitlu42/xgbutil"
 )

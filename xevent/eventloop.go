@@ -11,8 +11,8 @@ loop.
 */
 
 import (
-	"github.com/BurntSushi/xgb/shape"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb/shape"
+	"github.com/Ptitlu42/xgb/xproto"
 
 	"github.com/Ptitlu42/xgbutil"
 )

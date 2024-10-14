@@ -10,7 +10,7 @@ would become cluttered with functions that should not be used.
 */
 
 import (
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb/xproto"
 
 	"github.com/Ptitlu42/xgbutil"
 )

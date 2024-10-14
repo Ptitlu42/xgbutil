@@ -14,7 +14,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb/xproto"
 
 	"github.com/Ptitlu42/xgbutil"
 )

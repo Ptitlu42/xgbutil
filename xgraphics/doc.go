@@ -24,7 +24,7 @@ Note that while text drawing functions are provided, it is not necessary to use
 them to write text on images. Namely, there is nothing X specific about them.
 They are strictly for convenience.
 
-A quick example
+# A quick example
 
 This is a simple example the converts any value satisfying the image.Image
 interface into an *xgraphics.Image value, and creates a new window with that
@@ -49,7 +49,7 @@ A complete working example named 'show-image' that's similar to this can be
 found in the examples directory of the xgbutil package. More involved examples,
 'show-window-icons' and 'pointer-painting', are also provided.
 
-Portability
+# Portability
 
 The xgraphics package *assumes* a particular kind of X server configuration.
 Namely, this configuration specifies bits per pixel, image byte order, bitmap
@@ -85,6 +85,6 @@ routines. (Unfortunately, both things need to be fast.)
 If your X server is not configured to what the xgraphics package expects,
 messages will be emitted to stderr when a new xgraphics.Image value is created.
 If you see any of these messages, please report them to xgbutil's project page:
-https://github.com/BurntSushi/xgbutil.
+https://github.com/Ptitlu42/xgbutil.
 */
 package xgraphics

@@ -3,7 +3,7 @@ package xinerama
 import (
 	"sort"
 
-	"github.com/BurntSushi/xgb/xinerama"
+	"github.com/Ptitlu42/xgb/xinerama"
 	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/xrect"
 )

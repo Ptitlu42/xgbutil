@@ -4,3 +4,7 @@ github.com/BurntSushi/graphics-go v0.0.0-20160129215708-b43f31a4a966 h1:lTG4HQym
 github.com/BurntSushi/graphics-go v0.0.0-20160129215708-b43f31a4a966/go.mod h1:Mid70uvE93zn9wgF92A/r5ixgnvX8Lh68fxp9KQBaI0=
 github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc h1:7D+Bh06CRPCJO3gr2F7h1sriovOZ8BMhca2Rg85c2nk=
 github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/Ptitlu42/xgb v0.0.0-20210121224620-deaf085860bc h1:AA/mF5+lIFMbmdcYY53l4835PWnaP+jT69pOHUBS9FE=
+github.com/Ptitlu42/xgb v0.0.0-20210121224620-deaf085860bc/go.mod h1:q0PtF5HiQ7OPBWGqU/izwYSZz7muRkcPARLWQr0VkK4=
+github.com/Ptitlu42/xgbutil v0.0.0-20241014133053-9309c666ab7e h1:2L/+6PTtaNmPRGh4W4KeHRQJaIwu2ehk/S+M3KVKIB4=
+github.com/Ptitlu42/xgbutil v0.0.0-20241014133053-9309c666ab7e/go.mod h1:USpWCcJZ+3bMDEBxCQhLItB3cV+vTALQ7DHO9Acovjs=

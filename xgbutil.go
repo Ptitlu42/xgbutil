@@ -5,9 +5,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/BurntSushi/xgb"
-	"github.com/BurntSushi/xgb/xinerama"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb"
+	"github.com/Ptitlu42/xgb/xinerama"
+	"github.com/Ptitlu42/xgb/xproto"
 )
 
 // Logger is used through xgbutil when messages need to be emitted to stderr.
@@ -201,7 +201,7 @@ func NewConnDisplay(display string) (*XUtil, error) {
 
 // NewConnXgb use the specific xgb.Conn to create a new XUtil.
 //
-//  NewConn, NewConnDisplay are wrapper of this function.
+//	NewConn, NewConnDisplay are wrapper of this function.
 func NewConnXgb(c *xgb.Conn) (*XUtil, error) {
 	setup := xproto.Setup(c)
 	screen := setup.DefaultScreen(c)

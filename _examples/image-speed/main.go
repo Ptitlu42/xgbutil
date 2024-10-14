@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb/xproto"
 	"github.com/Ptitlu42/xgbutil"
 	"github.com/Ptitlu42/xgbutil/keybind"
 	"github.com/Ptitlu42/xgbutil/xevent"

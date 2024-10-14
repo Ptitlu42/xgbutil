@@ -3,7 +3,7 @@ package xevent
 import (
 	"fmt"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgb/xproto"
 )
 
 // ClientMessageEvent embeds the struct by the same name from the xgb library.
