@@ -6,7 +6,7 @@ import (
 	"github.com/BurntSushi/xgb"
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // GetProperty abstracts the messiness of calling xgb.GetProperty.

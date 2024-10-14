@@ -14,7 +14,7 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // Atm is a short alias for Atom in the common case of interning an atom.

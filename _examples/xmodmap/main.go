@@ -12,8 +12,8 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
+	"github.com/Ptitlu42/xgbutil/keybind"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 func main() {

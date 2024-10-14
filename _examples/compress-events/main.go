@@ -48,9 +48,9 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/Ptitlu42/xgbutil/xevent"
+	"github.com/Ptitlu42/xgbutil/xwindow"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // workTime is the amount of time to sleep to simulate "work" in response to

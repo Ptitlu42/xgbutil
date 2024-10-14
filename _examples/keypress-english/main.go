@@ -9,10 +9,10 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/Ptitlu42/xgbutil/keybind"
+	"github.com/Ptitlu42/xgbutil/xevent"
+	"github.com/Ptitlu42/xgbutil/xwindow"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 var flagRoot = false

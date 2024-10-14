@@ -11,7 +11,7 @@ package xevent
 import (
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 type KeyPressFun func(xu *xgbutil.XUtil, event KeyPressEvent)

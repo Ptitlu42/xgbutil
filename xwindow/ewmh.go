@@ -8,9 +8,9 @@ the currently running window manager.
 import (
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/ewmh"
-	"github.com/BurntSushi/xgbutil/xrect"
+	"github.com/Ptitlu42/xgbutil/ewmh"
+	"github.com/Ptitlu42/xgbutil/xrect"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // DecorGeometry retrieves the client's width and height including decorations.

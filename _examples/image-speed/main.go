@@ -1,19 +1,20 @@
-//This demonstration shows drawing entire generated images to an x window
-//and calculating the speed of the generation and the drawing operations
-//It should be noted that redrawing the entire image is inefficient, this demo
-//was made to show me how fast I could draw to the windows with this method.
+// This demonstration shows drawing entire generated images to an x window
+// and calculating the speed of the generation and the drawing operations
+// It should be noted that redrawing the entire image is inefficient, this demo
+// was made to show me how fast I could draw to the windows with this method.
 package main
 
 import (
-	"github.com/BurntSushi/xgb/xproto"
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xgraphics"
-	"github.com/BurntSushi/xgbutil/xwindow"
 	"image"
 	"log"
 	"time"
+
+	"github.com/BurntSushi/xgb/xproto"
+	"github.com/Ptitlu42/xgbutil/keybind"
+	"github.com/Ptitlu42/xgbutil/xevent"
+	"github.com/Ptitlu42/xgbutil/xgraphics"
+	"github.com/Ptitlu42/xgbutil/xwindow"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 func main() {

@@ -3,8 +3,8 @@ package mousebind
 import (
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
+	"github.com/Ptitlu42/xgbutil/xevent"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // Drag is the public interface that will make the appropriate connections

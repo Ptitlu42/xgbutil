@@ -5,11 +5,11 @@ import (
 
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/mousebind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xrect"
+	"github.com/Ptitlu42/xgbutil/keybind"
+	"github.com/Ptitlu42/xgbutil/mousebind"
+	"github.com/Ptitlu42/xgbutil/xevent"
+	"github.com/Ptitlu42/xgbutil/xrect"
+	"github.com/nicely-personal-assistant/xgbutil"
 )
 
 // Window represents an X window. It contains an XUtilValue to simplfy the
