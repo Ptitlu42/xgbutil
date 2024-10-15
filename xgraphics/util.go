@@ -7,7 +7,7 @@ import (
 	"image/draw"
 	"math"
 
-	"github.com/BurntSushi/graphics-go/graphics"
+	"github.com/Ptitlu42/graphics-go/graphics"
 	"github.com/Ptitlu42/xgb/xproto"
 
 	"github.com/Ptitlu42/xgbutil"
